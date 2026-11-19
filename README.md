@@ -4,7 +4,7 @@
 
 > **Protótipo local, versão 0.7.2.** Destinado a estudo e testes com **dados fictícios**. Não é homologado para uso institucional ou com dados pessoais reais. **Não publique o servidor na internet.**
 
-![Prévia da interface](docs/interface-permissoes.png)
+![Prévia da interface](interface-permissoes.png)
 
 ## Objetivo
 
