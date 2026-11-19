@@ -65,4 +65,12 @@ Consulte o [manual de instalação e migração](LEIA-ME.md). A assinatura de pa
 
 ## Licença
 
-Nenhuma licença de reutilização foi definida para esta publicação. Antes de permitir cópia, distribuição ou contribuição por terceiros, escolha e adicione uma licença adequada ao projeto.
+O FiscalIA PFG é um projeto de software livre distribuído sob os termos da GNU General Public License, versão 3.0 (GPL-3.0).
+
+É permitido utilizar, estudar, modificar, compartilhar e distribuir o software, inclusive para fins comerciais, desde que sejam respeitadas as condições estabelecidas pela licença GPL v3.
+
+As versões modificadas distribuídas também deverão observar as condições da GPL v3, incluindo a disponibilização do código-fonte correspondente.
+
+Consulte o arquivo LICENSE para conhecer os termos completos.
+
+Licença: GPL-3.0-only.
